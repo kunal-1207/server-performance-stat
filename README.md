@@ -1,9 +1,14 @@
 # Server Performance Monitoring Script (`server-stats.sh`)
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+[![Project Roadmap](https://img.shields.io/badge/Project_Roadmap-Follow_Progress-blue?style=flat-square)](https://roadmap.sh/projects/server-stats)
+![Bash](https://img.shields.io/badge/Bash-5.1%2B-4EAA25?logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## 🌐 Project Resources
+- **Official Documentation**: [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+- **Source Code**: `https://github.com/your-repo/server-stats`
+- **Issue Tracker**: `https://github.com/your-repo/server-stats/issues`
 
 ## 📝 Overview
 This Bash script provides comprehensive server performance statistics in a user-friendly format. It displays system information, resource utilization, process metrics, and network details with color-coded output for better readability.
